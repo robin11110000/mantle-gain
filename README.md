@@ -1,4 +1,4 @@
-# Mantle Gainn
+# Mantle Gain
 
 DEX aggregator on Mantle Network with chain abstraction and confidential trading.
 
