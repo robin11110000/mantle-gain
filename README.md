@@ -84,4 +84,4 @@ yarn type-check # TypeScript validation
 ```
 
 **Links:**
-- **Demo**: [Live Application](https://youtu.be/oqmRcWBEAMc)
+- **Demo**: [Live Application](https://www.youtube.com/watch?v=Tlsa3Z32Cp4)
