@@ -1,0 +1,28 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mantleOriginalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#333333;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="mantleAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0080ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0040ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Mantle Logo Symbol -->
+  <g transform="translate(10, 10)">
+    <circle cx="20" cy="20" r="20" fill="url(#mantleOriginalGradient)"/>
+    <g transform="translate(10, 10)">
+      <path d="M10 2L18 8L10 14L2 8L10 2Z" fill="white"/>
+      <path d="M10 14L18 22L10 28L2 22L10 14Z" fill="white"/>
+      <path d="M2 8V22L10 14V2L2 8Z" fill="url(#mantleAccent)" opacity="0.9"/>
+      <path d="M18 8V22L10 14V2L18 8Z" fill="url(#mantleAccent)" opacity="0.7"/>
+    </g>
+  </g>
+  
+  <!-- Mantle-Gain Text -->
+  <text x="60" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Mantle-Gain</text>
+  <text x="60" y="42" fill="url(#mantleAccent)" font-family="Arial, sans-serif" font-size="10">Powered by Mantle Network</text>
+</svg>
