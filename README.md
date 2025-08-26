@@ -21,8 +21,8 @@ DEX aggregator on Mantle Network with chain abstraction and confidential trading
 ## Setup
 
 ```bash
-git clone https://github.com/robin11110000/mantle-gainn.git
-cd mantle-gainn
+git clone https://github.com/robin11110000/mantle-gain.git
+cd mantle-gain
 yarn install
 yarn dev
 ```
