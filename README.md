@@ -85,3 +85,12 @@ yarn type-check # TypeScript validation
 
 **Links:**
 - **Demo**: [Live Application](https://www.youtube.com/watch?v=Tlsa3Z32Cp4)
+
+Cookathon update:
+currently the wallet integration works and the RPC endpoints are being fetched properly
+<img width="1509" height="739" alt="image" src="https://github.com/user-attachments/assets/1afc1606-ab42-4287-bceb-e6ccc8d80640" />
+<img width="1176" height="863" alt="image" src="https://github.com/user-attachments/assets/66fe075b-84a7-4269-a6cb-b59e441595dd" />
+<img width="1128" height="503" alt="image" src="https://github.com/user-attachments/assets/499db37b-df96-498c-a8a5-5c3879dc75fa" />
+
+
+
